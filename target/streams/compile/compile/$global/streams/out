@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/0xff/IdeaProjects/tools/grpc/src/main/scala/com/devim/gprc/Tool.scala:6:20: not found: value TerminalBuilder[0m
+[0m[[0m[31merror[0m] [0m[0m    val terminal = TerminalBuilder[0m
+[0m[[0m[31merror[0m] [0m[0m                   ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
