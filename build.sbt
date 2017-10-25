@@ -9,7 +9,6 @@ lazy val root = (project in file("."))
     jdkPackagerType := "exe",
     jdkPackagerJVMArgs := Seq("-Xmx1g"),
     libraryDependencies := Seq(
-      "org.jline" % "jline" % jlineVersion,
       "org.jline" % "jline-terminal" % jlineVersion,
       "org.jline" % "jline-reader" % jlineVersion,
       "org.typelevel" %% "cats-core" % "1.0.0-MF",
